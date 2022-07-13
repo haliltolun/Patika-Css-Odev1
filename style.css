@@ -1,0 +1,12 @@
+body {
+    background-color:#FCF8E8; 
+    text-align: center;
+}
+
+.navbar {
+    display: inline;
+}
+.alet {
+    list-style-position: inside;
+}
+.baslik{color: #d4455d;}
